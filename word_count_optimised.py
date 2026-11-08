@@ -8,4 +8,4 @@ def word_count(txt):
 
 if __name__ == "__main__":
     wrds = word_count(txt)
-    print(f"{txt}\n\nWord count:{len(wrds)}")
+    print(f"{txt}\n\nWord count: {len(wrds)}")
